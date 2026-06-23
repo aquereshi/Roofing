@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Roofing.Specs/Roofing.Specs.csproj" Id="558e5a40-3076-4fc3-b880-c15be99b7ce2" />
   <Project Path="Roofing.Tests/Roofing.Tests.csproj" />
   <Project Path="Roofing/Roofing.csproj" />
 </Solution>
